@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   {## <link rel="stylesheet" href="{{url_for('static',filename = 'style.css')}}"> CSS IS NOT WORKING##}
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+    <form action="" method="POST"> {# the action will be redirected to the page inside " " #}
+            <div>
+                Username: <input type="text" name="username" required><br>
+            </div>
+            <div>
+                Password: <input type="password" name="password" required><br>
+            </div>
+            <input type="submit" value="Submit">
+          </form>
+    {% if error %}
+        <p ><strong>Error:</strong> {{ error }}
+      {% endif %}
+</body>
+</html>
