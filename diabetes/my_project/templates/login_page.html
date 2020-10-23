@@ -6,7 +6,7 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="" method="POST"> {# the action will be redirected to the page inside " " #}
+    <form action="/home" > {# the action will be redirected to the page inside " " , maybe put a method="post#}
             <div>
                 Username: <input type="text" name="username" required><br>
             </div>
@@ -17,6 +17,7 @@
           </form>
     {% if error %}
         <p ><strong>Error:</strong> {{ error }}
+
       {% endif %}
 </body>
 </html>
