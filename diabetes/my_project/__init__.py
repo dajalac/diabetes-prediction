@@ -18,14 +18,15 @@ def register_blueprints(server):
 
 def register_dash_app(app):
     from my_project.home_dash.layout import layout
-    #here I import my callback
+    from my_project.home_dash.callbacks import register_callbacks
     dash_app = dash.Dash(__name__,
                          server=app,
                          url_base_pathname='/home/')
     with app.app_context():
         #dash_app.title = 'Dashapp 1'
         dash_app.layout = layout
-        #register_callbacks(dashapp1)
+        register_callbacks(dash_app)
+
 #to rum
 server = Flask(__name__)
 server.config.from_object(Config)
