@@ -13,7 +13,7 @@ import dash
 
 
 def register_blueprints(server):
-    from my_project.login import server_bp
+    from my_project.router import server_bp
     server.register_blueprint(server_bp)
 
 def register_dash_app(app):
