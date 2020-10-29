@@ -9,7 +9,7 @@ from app import app
 from app import server
 
 # connect to two pages
-from apps import graphs_info,diabetes_test
+from apps import graphs_info,diabetes_test,callbacks
 
 # to authentication
 VALID_USERNAME_PASSWORD_PAIRS ={'hello':'world'}
