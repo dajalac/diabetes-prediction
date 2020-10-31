@@ -1,521 +1,521 @@
-,0,1,gender,polyuria,polydipsia,sudden weight loss,weakness,polyphagia,genital thrush,visual blurring,itching,irritability,delayed healing,partial paresis,muscle stiffness,alopecia,obesity,class,c_age
-0,-0.05382523181337706,0.48439672376841025,Male,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Positive,Adult
-1,-0.3129320160047582,0.10542981740083696,Male,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Adult
-2,0.04284188116220783,0.5138949903545755,Male,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Positive,Adult
-3,-0.11392913810534155,0.24603869009651708,Male,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Positive,Adult
-4,0.9404787981693739,0.5131707784728768,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Senior Adult
-5,0.432073596493955,0.46245243398963065,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Positive,Adult
-6,0.18690570978174753,-0.08875638411606196,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-7,0.6445546898223049,0.046260404701107566,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Positive,Senior Adult
-8,0.5710902344872661,0.26549917437488235,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Positive,Senior Adult
-9,0.28801525252205984,0.40002866742186693,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Positive,Senior Adult
-10,0.07159745367815035,0.43056536403321655,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Positive,Adult
-11,0.0995717675510876,0.1878763188273024,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Positive,Adult
-12,-0.2317039482134603,0.3837202859121616,Male,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Positive,Adult
-13,0.40326730594278015,0.4033332948056976,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Positive,Senior Adult
-14,0.5361304097514754,0.17919579333655183,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-15,0.3292378282579098,-0.14552694478252037,Male,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-16,0.12233654572830144,-0.040636242806259715,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Positive,Adult
-17,0.5343669861899438,0.5130445130143141,Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Senior Adult
-18,0.4617883217328905,-0.09858074116920906,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Senior Adult
-19,-0.12261239614983832,-0.29728960678363336,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Positive,Adult
-20,0.573976389893861,-0.023478336832196217,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Positive,Senior Adult
-21,0.4966879037989246,0.4765896185318796,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Positive,Adult
-22,-0.2720686130980943,0.27962724030602326,Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
-23,0.17924913375971635,0.11795929926658984,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive,Adult
-24,0.6693439972108907,-0.20273923985990028,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Positive,Adult
-25,-0.477250748769395,0.1826885124465805,Male,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Positive,Adult
-26,-0.1990976672582081,0.018940139591120286,Male,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
-27,0.708348895491177,-0.026260151450049785,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-28,-0.6099022961533762,0.09500059205514164,Male,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Positive,Adult
-29,0.44659641199866995,-0.11364594995993893,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Positive,Adult
-30,0.36599485334246845,-0.46967983963167376,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-31,0.45391374157680686,0.02439440935119644,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive,Adult
-32,-0.5241027082244091,0.3139195653871348,Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive,Adult
-33,0.6623695126036699,0.04698238738375771,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-34,0.00214351108182409,-0.08727951662007018,Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive,Adult
-35,-0.006182630329276351,0.05231262088431987,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive,Adult
-36,-0.18943449176044425,0.13178593503804764,Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
-37,0.44819432414837374,0.15979640993498884,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive,Senior Adult
-38,-0.3015872993421503,-0.2041597728824471,Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive,Adult
-39,0.09046582480702114,-0.30787144992734494,Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive,Adult
-40,0.4322076024415702,0.1108721971332067,Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive,Adult
-41,0.2956836838786154,-0.5748769207671033,Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-42,0.6279381127126086,0.07940297489537554,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-43,0.6740914400041536,-0.23000767448328652,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-44,0.5553463403989439,-0.3580311408299723,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Adult
-45,0.17445107005933258,-0.08615061049520914,Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-46,0.9759851002824947,0.0010575520638667624,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive,Senior Adult
-47,0.8066419334791344,-0.18306147086997515,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Senior Adult
-48,0.711108617474399,-0.08972610525010793,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Positive,Adult
-49,0.3884180078563343,-0.2615676994394743,Female,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-50,0.6922430453609935,-0.3692847532961974,Female,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-51,0.48210271411179073,-0.625759176368949,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-52,0.7466756637690047,0.09017087548456582,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Positive,Senior Adult
-53,0.08576382609749955,-0.29998876601194846,Female,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Positive,Adult
-54,-0.17822834745551241,-0.32404077307486345,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Adult
-55,-0.5759477795630205,-0.36191715327153956,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Positive,Adult
-56,0.9092587568811118,0.1303624537738569,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Senior Adult
-57,-0.15406687347209674,-0.4050024844095898,Female,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-58,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-59,0.766299275434831,-0.1685484550924214,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Positive,Adult
-60,0.5249359665164359,-0.11556193999819545,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Positive,Senior Adult
-61,0.8244567562604994,-0.18233948818732498,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-62,0.6931161055541467,-0.06717177101958369,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-63,0.6290253107377979,0.24818780252035774,Female,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive,Senior Adult
-64,-0.21482922425000545,-0.22009602570854478,Female,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-65,-0.1674738187959643,-0.5569845823084217,Female,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Positive,Adult
-66,0.10358068239435403,-0.2748027448983169,Female,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-67,0.25177643712350517,-0.4151886968827137,Female,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Positive,Adult
-68,-0.359623785544217,-0.11820854926325737,Female,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Positive,Young Adult
-69,0.5405029161020733,-0.6154719405745491,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-70,-0.35601065205704285,-0.4120907609920458,Female,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-71,0.3385579279531674,-0.16039519840854535,Female,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-72,-0.5495459809326906,-0.05950244710475744,Female,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Positive,Senior Adult
-73,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-74,0.6740914400041536,-0.23000767448328652,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-75,0.38233546505359584,-0.6173318060777544,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-76,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-77,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-78,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-79,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-80,0.02084627158057778,-0.4301251775615957,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
-81,-0.06383722394350355,-0.327409318650909,Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-82,0.31133971196217036,-0.3844278583577272,Female,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-83,0.40094267744060746,-0.15185321336072052,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-84,0.8244567562604994,-0.18233948818732498,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-85,-0.29761045006676035,-0.40180352519764595,Female,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Positive,Adult
-86,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-87,-0.3274470880363883,-0.4757858156477053,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
-88,0.6522382705207976,0.023116456599276636,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-89,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-90,-0.05666177320152793,-0.21823616020533948,Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-91,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-92,0.568884204941453,-0.3709656778947806,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-93,0.2978018474196613,-0.3714933212929189,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Positive,Adult
-94,0.5591101284890848,-0.14999334785751522,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-95,0.28999971262752955,-0.3256850005001626,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-96,0.515923988955676,-0.2318675399864918,Female,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-97,0.6753365433520462,-0.3287370572857158,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Positive,Adult
-98,-0.15773691671409878,-0.22447503746850844,Female,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Positive,Adult
-99,0.40378730828807696,-0.08568255559476004,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-100,0.3886169394026779,0.09618406618417022,Female,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive,Adult
-101,0.7931508961117893,0.2864417905111321,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Senior Adult
-102,0.11245075094598805,0.3141194299450605,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Positive,Senior Adult
-103,0.45384198256705793,0.3778470106335713,Male,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
-104,0.44551584115595744,0.5174391481379614,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
-105,0.39145173244977916,0.520196487868771,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive,Senior Adult
-106,0.31284758509604194,0.07977754727964487,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Positive,Adult
-107,0.2801122818791436,-0.1512966834949554,Male,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-108,-0.06487414334327334,0.2819093710472127,Male,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive,Young Adult
-109,0.560902394654641,-0.25411703612845604,Female,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-110,0.0027027292829495675,-0.003824463352391866,Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Positive,Adult
-111,0.3496737937879445,-0.03904792190278389,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Positive,Adult
-112,0.573710195700454,0.30667482114252387,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Positive,Senior Adult
-113,0.33265864513576565,0.12869498615275618,Male,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Positive,Senior Adult
-114,0.1964943108608333,-0.09331215981040034,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-115,0.802638847356408,-0.19005866068824379,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-116,0.43093476429156985,-0.590784726731601,Female,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Positive,Adult
-117,0.8053041737151173,0.007930633317429103,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-118,0.6062588876332908,0.09635899543308415,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
-119,0.11667500055026436,-0.31986938268261284,Female,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
-120,0.1259029779767578,0.2177306876950189,Male,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Positive,Adult
-121,0.41831678711737813,0.18083151692612,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-122,0.41986513767722294,0.19810136113108898,Male,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Positive,Adult
-123,-0.2954055362250786,0.20013020084536326,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Positive,Adult
-124,-0.2947524518238567,-0.3274837658327171,Male,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-125,0.4769378181555463,-0.29584805249223173,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Positive,Adult
-126,0.3314595691965221,0.3443622833787878,Male,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
-127,0.04408698451010051,0.41516560755214627,Male,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Positive,Adult
-128,-0.09514499788345177,0.4340105313412449,Male,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
-129,0.1232806768034449,-0.051510081891868204,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Positive,Adult
-130,0.5295195166515861,0.09692875039472823,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Positive,Adult
-131,-0.16872828504560689,-0.12781354722846094,Male,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
-132,-0.011669431336760405,-0.12345781964419128,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
-133,-0.43280042014616255,-0.5526502881439884,Male,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Positive,Young Adult
-134,-0.11428625473873788,-0.43688174428802334,Male,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-135,0.12900699465496435,0.7498875276764053,Male,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
-136,-0.3883691457516112,0.5593761116840423,Male,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Positive,Adult
-137,0.6886591984702147,0.4319849252245133,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Adult
-138,0.240680468095824,0.1502499228847263,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Positive,Adult
-139,-0.4046543671523394,0.4935243402761939,Male,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Positive,Adult
-140,-0.25861760716993615,-0.3141737955239853,Male,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-141,0.3723301893472005,0.27318201356240146,Male,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Positive,Senior Adult
-142,-0.1638778332580766,-0.32539676532540784,Male,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Positive,Adult
-143,-0.15905782502430332,-0.3112594710777271,Male,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-144,0.3903788343094604,0.005185065292487717,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive,Senior Adult
-145,0.45952613941622666,0.5032883136332609,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
-146,-0.11113844632018527,0.022471901979054826,Male,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
-147,-0.291604643405304,0.13186988043436113,Male,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
-148,-0.40897261984524674,-0.0018118703457385699,Male,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Positive,Adult
-149,-0.17459659154788204,0.2726413828582721,Male,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Positive,Adult
-150,0.33283082004958797,0.2816101222306092,Male,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Positive,Adult
-151,-0.0016031474236064547,0.0915858529130256,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Positive,Adult
-152,-0.23977458438942018,0.41921612877323133,Male,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Positive,Adult
-153,0.21634504970837043,0.4673797447643072,Male,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Adult
-154,0.35123539310524654,0.701636958957667,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Positive,Senior Adult
-155,-0.5699896452375067,-0.3255230307839705,Male,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-156,0.16132401278751513,-0.3045133495894378,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive,Adult
-157,-0.000498659078190522,-0.19687929938262078,Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
-158,-0.1250719343081868,0.35490858554765814,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
-159,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-160,-0.3274470880363883,-0.4757858156477053,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
-161,0.6522382705207976,0.023116456599276636,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-162,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-163,-0.05666177320152793,-0.21823616020533948,Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-164,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-165,0.568884204941453,-0.3709656778947806,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-166,0.36599485334246845,-0.46967983963167376,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-167,0.45391374157680686,0.02439440935119644,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive,Adult
-168,-0.5241027082244091,0.3139195653871348,Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive,Adult
-169,0.6623695126036699,0.04698238738375771,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-170,0.00214351108182409,-0.08727951662007018,Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive,Adult
-171,-0.006182630329276351,0.05231262088431987,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive,Adult
-172,-0.18943449176044425,0.13178593503804764,Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
-173,0.44819432414837374,0.15979640993498884,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive,Senior Adult
-174,-0.3015872993421503,-0.2041597728824471,Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive,Adult
-175,0.09046582480702114,-0.30787144992734494,Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive,Adult
-176,0.4322076024415702,0.1108721971332067,Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive,Adult
-177,0.2956836838786154,-0.5748769207671033,Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-178,0.6279381127126086,0.07940297489537554,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-179,0.6740914400041536,-0.23000767448328652,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-180,0.5553463403989439,-0.3580311408299723,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Adult
-181,0.6753365433520462,-0.3287370572857158,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Positive,Adult
-182,-0.15773691671409878,-0.22447503746850844,Female,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Positive,Adult
-183,0.40378730828807696,-0.08568255559476004,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-184,0.3886169394026779,0.09618406618417022,Female,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive,Adult
-185,0.7931508961117893,0.2864417905111321,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Senior Adult
-186,0.11245075094598805,0.3141194299450605,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Positive,Senior Adult
-187,0.45384198256705793,0.3778470106335713,Male,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
-188,0.44551584115595744,0.5174391481379614,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
-189,0.39145173244977916,0.520196487868771,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive,Senior Adult
-190,0.31284758509604194,0.07977754727964487,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Positive,Adult
-191,-0.24225826797865221,-0.3493271860659553,Male,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
-192,-0.2537304702317455,0.09652096514927627,Male,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Positive,Senior Adult
-193,-0.07570586260131718,0.3355423864790682,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Positive,Adult
-194,0.14862424631197463,0.3688092807294914,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Positive,Adult
-195,-0.12439518274367944,-0.039464003915539,Male,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Adult
-196,-0.20863310171447547,0.20511814211919932,Male,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
-197,-0.12508476881440256,0.08732682898784616,Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
-198,0.1371204284203506,-0.3887733653390776,Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive,Adult
-199,0.647314411805527,-0.017205549098950557,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive,Senior Adult
-200,0.2618724186271128,-0.13047946251475073,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative,Adult
-201,-0.7683339321971487,-0.4830378120692473,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-202,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-203,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-204,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-205,0.45692360960151956,0.8200626212387415,Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
-206,-0.20457670365956038,0.032761527064876866,Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative,Senior Adult
-207,-0.3571266337049877,0.4375516456473554,Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-208,-0.4010881989291568,0.3383439857237835,Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
-209,-0.5480848777190644,0.26306264048214867,Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
-210,-0.6117853049438183,-0.0012515695826393614,Male,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-211,-0.4912710953717474,-0.0657413027500166,Male,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Negative,Adult
-212,-0.638267774161655,-0.14102264799165143,Male,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Negative,Adult
-213,-0.2424360022002724,-0.21079561792813759,Male,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Negative,Adult
-214,-0.6846372515568256,0.25157275721030814,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-215,-0.6006145326852484,-0.07467304932106894,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-216,-0.30791709795274025,-0.08377542369156582,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
-217,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-218,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-219,-0.8996745829035012,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-220,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-221,-0.4350237493649406,0.6402780270957751,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-222,-0.5607149896259904,-0.3210055337020057,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
-223,0.10582784791109645,0.3623912686881613,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Negative,Adult
-224,-0.025036698617304176,0.7233237458473438,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
-225,-0.7526779041135937,-0.29258874965987114,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-226,-0.6530507420520567,-0.029358728124413896,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Negative,Adult
-227,-0.47211851282636536,-0.25601142425477064,Male,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-228,-0.11117468951171777,0.21253066145085858,Male,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Negative,Adult
-229,-0.5736942867437477,0.4254045443497502,Male,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-230,-0.4804446542374658,-0.11641928675038063,Male,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-231,-0.6034591635327179,-0.14084370708702937,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-232,0.19630733350116375,0.5236375397731773,Male,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-233,-0.12094329011239541,0.5011813192864994,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-234,-0.2685301569053627,0.5025457550945904,Male,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-235,-0.8996745829035012,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-236,0.10896927844775767,0.8061453226852754,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Senior Adult
-237,0.12255016817566311,0.7219593100392528,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-238,-0.03802740034214985,0.7308639774436405,Male,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Senior Adult
-239,-0.6034591635327179,-0.14084370708702937,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-240,-0.3658922319905352,0.24452795530912574,Male,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Negative,Adult
-241,0.15175947976313442,0.7429214104939015,Male,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
-242,-0.04919817260071985,0.8042854571820701,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Senior Adult
-243,-0.6034591635327179,-0.14084370708702937,Male,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-244,-0.29269163088877836,0.5835074664293167,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-245,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-246,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-247,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-248,-0.7820423518273943,0.06480643300605782,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
-249,0.38233546505359584,-0.6173318060777544,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-250,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-251,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-252,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-253,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-254,0.02084627158057778,-0.4301251775615957,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
-255,-0.06383722394350355,-0.327409318650909,Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-256,0.31133971196217036,-0.3844278583577272,Female,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-257,0.40094267744060746,-0.15185321336072052,Female,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-258,0.8244567562604994,-0.18233948818732498,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-259,0.35123539310524654,0.701636958957667,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Positive,Senior Adult
-260,-0.5699896452375067,-0.3255230307839705,Male,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-261,0.16132401278751513,-0.3045133495894378,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive,Adult
-262,-0.000498659078190522,-0.19687929938262078,Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
-263,-0.1250719343081868,0.35490858554765814,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
-264,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-265,-0.3274470880363883,-0.4757858156477053,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
-266,0.6522382705207976,0.023116456599276636,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-267,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-268,-0.05666177320152793,-0.21823616020533948,Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-269,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-270,0.568884204941453,-0.3709656778947806,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-271,0.36599485334246845,-0.46967983963167376,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-272,-0.6846372515568256,0.25157275721030814,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-273,-0.6006145326852484,-0.07467304932106894,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-274,-0.30791709795274025,-0.08377542369156582,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
-275,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-276,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-277,-0.8996745829035012,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-278,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-279,-0.4350237493649406,0.6402780270957751,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-280,-0.5607149896259904,-0.3210055337020057,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
-281,-0.6846372515568256,0.25157275721030814,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-282,-0.6006145326852484,-0.07467304932106894,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-283,-0.30791709795274025,-0.08377542369156582,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
-284,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-285,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-286,-0.8996745829035012,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-287,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-288,-0.4350237493649406,0.6402780270957751,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-289,-0.5607149896259904,-0.3210055337020057,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
-290,-0.29269163088877836,0.5835074664293167,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-291,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-292,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-293,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-294,-0.7820423518273943,0.06480643300605782,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
-295,0.38233546505359584,-0.6173318060777544,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-296,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-297,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-298,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-299,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-300,0.02084627158057778,-0.4301251775615957,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
-301,-0.06383722394350355,-0.327409318650909,Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-302,-0.12508476881440256,0.08732682898784616,Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
-303,0.1371204284203506,-0.3887733653390776,Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive,Adult
-304,0.647314411805527,-0.017205549098950557,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive,Senior Adult
-305,0.2618724186271128,-0.13047946251475073,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative,Adult
-306,-0.7683339321971487,-0.4830378120692473,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-307,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-308,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-309,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-310,0.45692360960151956,0.8200626212387415,Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
-311,-0.20457670365956038,0.032761527064876866,Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative,Senior Adult
-312,-0.3571266337049877,0.4375516456473554,Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-313,-0.4010881989291568,0.3383439857237835,Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
-314,-0.5480848777190644,0.26306264048214867,Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
-315,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-316,-0.14716754781923524,0.4018725432156827,Female,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Negative,Adult
-317,-0.37516323460242484,-0.22182063948729175,Female,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Negative,Adult
-318,-0.4536509303093184,-0.6044157132783932,Female,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Negative,Young Adult
-319,-0.5030073308469505,-0.48737210623368066,Female,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-320,-0.2174616051528049,0.5177163573109018,Female,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
-321,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-322,0.22115734660872827,0.8812477270222883,Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
-323,-0.06791683566579682,0.4639252041444873,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-324,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-325,-0.5459667141780186,0.46644623995633305,Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-326,-0.14232631463243262,0.6311756527252783,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-327,-0.4081192313949895,-0.21306155934006887,Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
-328,-0.18821325164553027,-0.008266943445827013,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative,Adult
-329,0.1471817871223975,0.5178678010607423,Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-330,-0.46591256738552567,0.4089173451168651,Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-331,0.03218174812717245,0.4853835517824029,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative,Adult
-332,-0.16022443092817196,0.3922747391500715,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-333,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-334,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-335,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-336,-0.7820423518273943,0.06480643300605782,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
-337,0.38233546505359584,-0.6173318060777544,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-338,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-339,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-340,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-341,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-342,0.02084627158057778,-0.4301251775615957,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
-343,-0.06383722394350355,-0.327409318650909,Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-344,-0.12508476881440256,0.08732682898784616,Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
-345,0.1371204284203506,-0.3887733653390776,Female,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive,Adult
-346,0.647314411805527,-0.017205549098950557,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive,Senior Adult
-347,0.2618724186271128,-0.13047946251475073,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative,Adult
-348,-0.7683339321971487,-0.4830378120692473,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-349,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-350,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-351,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-352,0.45692360960151956,0.8200626212387415,Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
-353,-0.20457670365956038,0.032761527064876866,Male,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative,Senior Adult
-354,-0.3571266337049877,0.4375516456473554,Male,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-355,-0.4010881989291568,0.3383439857237835,Male,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
-356,-0.5480848777190644,0.26306264048214867,Male,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
-357,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-358,0.16132401278751513,-0.3045133495894378,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive,Adult
-359,-0.000498659078190522,-0.19687929938262078,Male,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
-360,-0.1250719343081868,0.35490858554765814,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
-361,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-362,-0.3274470880363883,-0.4757858156477053,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
-363,0.6522382705207976,0.023116456599276636,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-364,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-365,-0.05666177320152793,-0.21823616020533948,Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-366,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-367,0.568884204941453,-0.3709656778947806,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-368,0.36599485334246845,-0.46967983963167376,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-369,-0.6846372515568256,0.25157275721030814,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-370,-0.6006145326852484,-0.07467304932106894,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-371,-0.30791709795274025,-0.08377542369156582,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
-372,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-373,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-374,-0.8996745829035012,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-375,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-376,-0.4350237493649406,0.6402780270957751,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-377,-0.5607149896259904,-0.3210055337020057,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
-378,-0.25861760716993615,-0.3141737955239853,Male,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-379,0.3723301893472005,0.27318201356240146,Male,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Positive,Senior Adult
-380,-0.1638778332580766,-0.32539676532540784,Male,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Positive,Adult
-381,-0.15905782502430332,-0.3112594710777271,Male,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-382,0.3903788343094604,0.005185065292487717,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive,Senior Adult
-383,0.45952613941622666,0.5032883136332609,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
-384,-0.11113844632018527,0.022471901979054826,Male,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
-385,-0.291604643405304,0.13186988043436113,Male,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
-386,-0.06791683566579682,0.4639252041444873,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-387,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-388,-0.5459667141780186,0.46644623995633305,Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-389,-0.14232631463243262,0.6311756527252783,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-390,-0.4081192313949895,-0.21306155934006887,Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
-391,-0.18821325164553027,-0.008266943445827013,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative,Adult
-392,0.1471817871223975,0.5178678010607423,Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-393,-0.46591256738552567,0.4089173451168651,Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-394,0.03218174812717245,0.4853835517824029,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative,Adult
-395,-0.16022443092817196,0.3922747391500715,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-396,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-397,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-398,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-399,0.22115734660872827,0.8812477270222883,Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
-400,-0.06791683566579682,0.4639252041444873,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-401,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-402,-0.5459667141780186,0.46644623995633305,Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-403,-0.14232631463243262,0.6311756527252783,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-404,-0.4081192313949895,-0.21306155934006887,Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
-405,-0.18821325164553027,-0.008266943445827013,Male,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative,Adult
-406,0.1471817871223975,0.5178678010607423,Male,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-407,-0.46591256738552567,0.4089173451168651,Female,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-408,0.03218174812717245,0.4853835517824029,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative,Adult
-409,-0.16022443092817196,0.3922747391500715,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-410,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-411,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-412,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-413,-0.7820423518273943,0.06480643300605782,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
-414,0.38233546505359584,-0.6173318060777544,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-415,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-416,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-417,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-418,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-419,0.02084627158057778,-0.4301251775615957,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
-420,-0.06383722394350355,-0.327409318650909,Female,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
-421,-0.12508476881440256,0.08732682898784616,Female,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
-422,0.5343669861899438,0.5130445130143141,Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Senior Adult
-423,0.4617883217328905,-0.09858074116920906,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Senior Adult
-424,-0.12261239614983832,-0.29728960678363336,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Positive,Adult
-425,0.573976389893861,-0.023478336832196217,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Positive,Senior Adult
-426,0.4966879037989246,0.4765896185318796,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Positive,Adult
-427,-0.2720686130980943,0.27962724030602326,Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
-428,0.17924913375971635,0.11795929926658984,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive,Adult
-429,0.6693439972108907,-0.20273923985990028,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Positive,Adult
-430,-0.477250748769395,0.1826885124465805,Male,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Positive,Adult
-431,-0.1990976672582081,0.018940139591120286,Male,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
-432,0.708348895491177,-0.026260151450049785,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-433,-0.6099022961533762,0.09500059205514164,Male,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Positive,Adult
-434,0.44659641199866995,-0.11364594995993893,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Positive,Adult
-435,0.36599485334246845,-0.46967983963167376,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-436,0.45391374157680686,0.02439440935119644,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive,Adult
-437,-0.5241027082244091,0.3139195653871348,Male,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive,Adult
-438,0.6623695126036699,0.04698238738375771,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-439,0.00214351108182409,-0.08727951662007018,Male,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive,Adult
-440,-0.006182630329276351,0.05231262088431987,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive,Adult
-441,-0.18943449176044425,0.13178593503804764,Male,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
-442,0.44819432414837374,0.15979640993498884,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive,Senior Adult
-443,-0.3015872993421503,-0.2041597728824471,Male,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive,Adult
-444,0.09046582480702114,-0.30787144992734494,Female,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive,Adult
-445,0.4322076024415702,0.1108721971332067,Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive,Adult
-446,0.2956836838786154,-0.5748769207671033,Female,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
-447,0.6279381127126086,0.07940297489537554,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-448,0.6740914400041536,-0.23000767448328652,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
-449,0.5553463403989439,-0.3580311408299723,Female,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Adult
-450,0.17445107005933258,-0.08615061049520914,Female,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-451,0.9759851002824947,0.0010575520638667624,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive,Senior Adult
-452,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-453,-0.3274470880363883,-0.4757858156477053,Female,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
-454,0.6522382705207976,0.023116456599276636,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-455,-0.634347981553303,-0.3722043890659394,Female,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
-456,-0.05666177320152793,-0.21823616020533948,Female,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
-457,0.9366448244214699,-0.10723708385031222,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
-458,0.568884204941453,-0.3709656778947806,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
-459,0.36599485334246845,-0.46967983963167376,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
-460,-0.6846372515568256,0.25157275721030814,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-461,-0.6006145326852484,-0.07467304932106894,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-462,-0.30791709795274025,-0.08377542369156582,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
-463,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-464,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-465,-0.8996745829035012,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-466,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-467,-0.4350237493649406,0.6402780270957751,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-468,-0.5607149896259904,-0.3210055337020057,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
-469,-0.6846372515568256,0.25157275721030814,Male,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-470,-0.6006145326852484,-0.07467304932106894,Male,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
-471,-0.30791709795274025,-0.08377542369156582,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
-472,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-473,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-474,-0.8996745829035013,-0.367870094901506,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
-475,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-476,-0.4350237493649406,0.6402780270957751,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-477,-0.5607149896259904,-0.3210055337020057,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
-478,-0.29269163088877836,0.5835074664293167,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-479,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-480,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-481,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-482,-0.7820423518273943,0.06480643300605782,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
-483,0.38233546505359584,-0.6173318060777544,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
-484,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-485,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-486,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-487,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-488,-0.16022443092817196,0.3922747391500715,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-489,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-490,-0.42669760795384015,0.500685889591385,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-491,0.1875894771924279,0.5507093710856663,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
-492,0.22115734660872827,0.8812477270222883,Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
-493,-0.06791683566579682,0.4639252041444873,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
-494,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-495,-0.5459667141780186,0.46644623995633305,Male,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
-496,-0.14232631463243262,0.6311756527252783,Male,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-497,-0.4081192313949895,-0.21306155934006887,Male,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
-498,0.6522382705207976,0.023116456599276636,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
-499,0.22115734660872827,0.8812477270222883,Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
-500,-0.17894047106638156,0.4527370447628151,Male,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Senior Adult
-501,-0.21478895592102748,0.08933438076522607,Male,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Senior Adult
-502,0.3110870014367419,0.5770654887228769,Male,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-503,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-504,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-505,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-506,-0.34189560733322777,0.813387831552567,Male,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
-507,-0.46758684759427765,-0.1478957292452138,Male,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Senior Adult
-508,-0.29269163088877836,0.5835074664293167,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
-509,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
-510,-0.33356946592212733,0.6737956940481771,Male,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
-511,0.2807176192241407,0.7238191755424582,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
-512,-0.7820423518273943,0.06480643300605782,Male,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
-513,0.47546360708530866,-0.44422200162096254,Female,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Senior Adult
-514,0.3317373978554451,-0.6734273626649105,Female,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
-515,0.3930887841491842,-0.38811059656285296,Female,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
-516,0.6522735311000623,-0.23772684698420532,Female,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
-517,0.6745088931671351,-0.5326503637366176,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
-518,-0.16022443092817196,0.3922747391500715,Female,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
-519,-0.7504558423226254,-0.21612505232866422,Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+,0,1,polyuria,polydipsia,sudden weight loss,weakness,polyphagia,genital thrush,visual blurring,itching,irritability,delayed healing,partial paresis,muscle stiffness,alopecia,obesity,class,c_age
+0,0.014220416334437547,0.4652044584095048,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Positive,Adult
+1,-0.2834703539192035,0.10501648615757643,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Adult
+2,0.11497109618907098,0.5025639667356099,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Positive,Adult
+3,-0.06548036570518184,0.2192243359889396,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Positive,Adult
+4,1.068770460328608,0.3319948288816212,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Senior Adult
+5,0.5246392184339628,0.3787087095519698,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Positive,Adult
+6,0.23543810398445725,-0.20228921026878668,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+7,0.7268255726308488,-0.12048233366828674,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Positive,Senior Adult
+8,0.6728759982238759,0.07500162042299197,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Positive,Senior Adult
+9,0.37373919250245957,0.3053148714582708,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Positive,Senior Adult
+10,0.15353214166341916,0.3338145079388108,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Positive,Adult
+11,0.15896812531998628,0.11602370282992307,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Positive,Adult
+12,-0.1710570510914129,0.3300684649160606,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Positive,Adult
+13,0.5022642125386059,0.25418693244536583,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Positive,Senior Adult
+14,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+15,0.37718788041792495,-0.2524813337650363,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+16,0.17275218414792276,-0.15681513125675867,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Positive,Adult
+17,0.6417947747208712,0.3906775923052186,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Senior Adult
+18,0.5243788616998004,-0.23523898560904366,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Senior Adult
+19,-0.09785199742440476,-0.4189602820416139,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Positive,Adult
+20,0.6507805271361397,-0.19134567420002807,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Positive,Senior Adult
+21,0.5958781771710858,0.37115183133593077,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Positive,Adult
+22,-0.21878126094293954,0.2122540118590712,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
+23,0.23337888315379174,0.04963397468627519,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive,Adult
+24,0.7338661359453891,-0.3760264070809046,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Positive,Adult
+25,-0.4425197922280969,0.14409459999325858,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Positive,Adult
+26,-0.1637504714077196,-0.030274079807061885,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
+27,0.7793283346305312,-0.15490916854719602,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+28,-0.5874967940268552,0.07782738634483868,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Positive,Adult
+29,0.510195720833057,-0.27875827757860355,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Positive,Adult
+30,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+31,0.5311435600114414,-0.16261997691804975,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive,Adult
+32,-0.4937748111334247,0.355215009713745,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive,Adult
+33,0.7391227533354708,-0.09467432672647573,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+34,0.035859404510111714,-0.14723581019406262,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive,Adult
+35,0.04094455430273575,-0.023576329501688587,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive,Adult
+36,-0.1473745811959411,0.091528466317127,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
+37,0.5330336479886976,0.0005671051680370687,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive,Senior Adult
+38,-0.28666286658131956,-0.26329756908863894,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive,Adult
+39,0.0027775369004461314,-0.22106742202814758,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive,Adult
+40,0.39220651060392786,0.16726604921933372,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive,Adult
+41,0.20232521013458676,-0.5380078175659385,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+42,0.5897346554425097,0.15109461006649602,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+43,0.6198401726440339,-0.1979595236449997,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+44,0.48895183255289576,-0.3272454317242221,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Adult
+45,0.09690095033125112,0.050385655740832515,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+46,0.9563185515703787,-0.009728916652905678,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive,Senior Adult
+47,0.7670311539259093,-0.180717175489007,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Senior Adult
+48,0.6702609263548056,-0.06802761823458409,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Positive,Adult
+49,0.317078928955595,-0.19277926438775614,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+50,0.6350499637835152,-0.37759679386299483,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+51,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+52,0.7269834901361044,0.08529027996366823,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Positive,Senior Adult
+53,-0.004003123265923558,-0.1976870405038195,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Positive,Adult
+54,-0.28238536631498107,-0.18249982371554566,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Adult
+55,-0.697775862803296,-0.21213598569686182,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Positive,Adult
+56,0.895885559064769,0.1316200987920978,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Senior Adult
+57,-0.2626130458096731,-0.2723087113233748,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+58,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+59,0.7285958501389954,-0.18322720201084655,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Positive,Adult
+60,0.47587104069667896,-0.07486163692576817,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Positive,Senior Adult
+61,0.7793283346305312,-0.15490916854719602,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+62,0.6476563833877985,-0.006003274886153501,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+63,0.6101346366714425,0.2794881719799874,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive,Senior Adult
+64,-0.31823995155769685,-0.052539477130590956,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+65,-0.280691413745769,-0.47289844856061364,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Positive,Adult
+66,0.015026353143829996,-0.16933268971211207,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+67,0.16491259769007838,-0.346900100886221,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Positive,Adult
+68,-0.45996929559590977,0.06390927447966903,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Positive,Young Adult
+69,0.46326195437306156,-0.63817155786576,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+70,-0.4719223585588175,-0.2801991116615397,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+71,0.2689095325310061,-0.06841341968966098,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+72,-0.6467367806672919,0.0920828163950615,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Positive,Senior Adult
+73,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+74,0.6198401726440339,-0.1979595236449997,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+75,0.29665470764166185,-0.6218300274540551,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+76,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+77,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+78,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+79,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+80,-0.07512093647326423,-0.35066351397514184,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
+81,-0.15848018560132587,-0.22307328487712,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+82,0.23035295419183321,-0.32594869096116075,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+83,0.3342142104303069,-0.06312910167057323,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+84,0.7793283346305312,-0.15490916854719602,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+85,-0.4064042162605837,-0.2978886464141692,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Positive,Adult
+86,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+87,-0.45090600414912774,-0.3118365900469897,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
+88,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+89,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+90,-0.1516327048262971,-0.0688810075422957,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+91,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+92,0.5017407469157555,-0.34199534191657044,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+93,0.2175640398289735,-0.3111987807688124,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Positive,Adult
+94,0.5008214571617068,-0.07947063208227795,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+95,0.21044495508407118,-0.25180689525930405,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+96,0.4532329259126341,-0.18161799323329497,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+97,0.6224725827341374,-0.3427440058247149,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Positive,Adult
+98,-0.24877038845135369,-0.11598631279336563,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Positive,Adult
+99,0.34620691165435136,-0.01896438433363913,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+100,0.35762978663580614,0.08772431616969881,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive,Adult
+101,0.895885559064769,0.1316200987920978,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Senior Adult
+102,0.07295066105345688,0.4117366954057232,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Positive,Senior Adult
+103,0.5481219971003404,0.2524223822841821,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
+104,0.5532071468929644,0.37608186297655616,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
+105,0.3758535076264474,0.6097703383155405,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive,Senior Adult
+106,0.37596914529669956,-0.02370884641553543,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Positive,Adult
+107,0.3241980137004972,-0.2521711498972645,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+108,-0.010849033431864788,0.2541003685256696,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive,Young Adult
+109,0.5033780125407824,-0.2286909002019523,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+110,-0.07768460024270823,0.15495674080607394,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Positive,Adult
+111,0.42109931762393554,-0.23594156458259424,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Positive,Adult
+112,0.5630718809656836,0.3113339926670517,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Positive,Senior Adult
+113,0.40787148756065544,-0.016477522137911566,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Positive,Senior Adult
+114,0.12660979820552382,-0.0023126700541626216,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+115,0.7588950738407787,-0.1844832143343049,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+116,0.35179254645078206,-0.6093249425495293,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Positive,Adult
+117,0.7740580488241378,0.03789003652286206,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+118,0.5720879505082599,0.14363399638536212,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
+119,0.03862749320266934,-0.2763532004678054,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
+120,0.1886525731658556,0.14992018542571645,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Positive,Adult
+121,0.493253371193925,0.07460585070841688,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+122,0.4957646357542459,0.09035472021606289,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Positive,Adult
+123,-0.256595298551372,0.18295642977871798,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Positive,Adult
+124,-0.2875989651771895,-0.3934036852051737,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+125,0.5215130674210636,-0.4318042295243996,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Positive,Adult
+126,0.4176849383143865,0.2242431219799325,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
+127,0.11760350627917454,0.3577794845558946,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Positive,Adult
+128,-0.023807845575760656,0.3719601040669639,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
+129,0.16867898766219658,-0.1459327098926389,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Positive,Adult
+130,0.6124603439392994,-0.07146308496929585,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Positive,Adult
+131,-0.13912677332607087,-0.2066318862944311,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
+132,0.025917257921830972,-0.2302824884528831,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
+133,-0.44921205157991567,-0.6022352148920577,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Positive,Young Adult
+134,-0.10293714721702879,-0.5426197627339879,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+135,0.23009271752370103,0.6975842156907411,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
+136,-0.3224235370429749,0.5301423015072427,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Positive,Adult
+137,0.8028953734931209,0.2497341678292718,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Adult
+138,0.31295471725401974,0.006870172016402387,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Positive,Adult
+139,-0.3530856222757759,0.505944387699829,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Positive,Adult
+140,-0.24747386753364942,-0.38339974482055617,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+141,0.4540654042781944,0.15854196337435442,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Positive,Senior Adult
+142,-0.1516565015336322,-0.40234529189664403,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Positive,Adult
+143,-0.14894385455697368,-0.37245020962541947,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+144,0.4552262465934446,-0.12453856055880863,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive,Senior Adult
+145,0.5591185290721232,0.4001680241948457,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
+146,-0.06589023445941555,-0.07400209509973248,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
+147,-0.25055205241957623,0.07521398242908178,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
+148,-0.3842596397042757,-0.04901478894457126,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Positive,Adult
+149,-0.11970444999901192,0.21645383933367074,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Positive,Adult
+150,0.41087160460221195,0.17486794975864414,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Positive,Adult
+151,0.05751351066505095,-0.0329017279112859,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Positive,Adult
+152,-0.17762617794430074,0.3735517242863203,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Positive,Adult
+153,0.30328246084224797,0.385498351515007,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Adult
+154,0.467145338840703,0.581440017586826,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Positive,Senior Adult
+155,-0.5786321871413691,-0.3436625284730467,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+156,0.20313521858589395,-0.4796380556978398,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive,Adult
+157,0.03282480935325138,-0.3097772518083231,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
+158,-0.05908156564296008,0.27540724480280643,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
+159,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+160,-0.45090600414912774,-0.3118365900469897,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
+161,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+162,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+163,-0.1516327048262971,-0.0688810075422957,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+164,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+165,0.5017407469157555,-0.34199534191657044,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+166,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+167,0.5311435600114414,-0.16261997691804975,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive,Adult
+168,-0.4937748111334247,0.355215009713745,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive,Adult
+169,0.7391227533354708,-0.09467432672647573,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+170,0.035859404510111714,-0.14723581019406262,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive,Adult
+171,0.04094455430273575,-0.023576329501688587,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive,Adult
+172,-0.1473745811959411,0.091528466317127,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
+173,0.5330336479886976,0.0005671051680370687,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive,Senior Adult
+174,-0.28666286658131956,-0.26329756908863894,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive,Adult
+175,0.0027775369004461314,-0.22106742202814758,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive,Adult
+176,0.39220651060392786,0.16726604921933372,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive,Adult
+177,0.20232521013458676,-0.5380078175659385,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+178,0.5897346554425097,0.15109461006649602,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+179,0.6198401726440339,-0.1979595236449997,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+180,0.48895183255289576,-0.3272454317242221,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Adult
+181,0.6224725827341374,-0.3427440058247149,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Positive,Adult
+182,-0.24877038845135369,-0.11598631279336563,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Positive,Adult
+183,0.34620691165435136,-0.01896438433363913,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+184,0.35762978663580614,0.08772431616969881,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Positive,Adult
+185,0.895885559064769,0.1316200987920978,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Senior Adult
+186,0.07295066105345688,0.4117366954057232,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Positive,Senior Adult
+187,0.5481219971003404,0.2524223822841821,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
+188,0.5532071468929644,0.37608186297655616,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Positive,Senior Adult
+189,0.3758535076264474,0.6097703383155405,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Positive,Senior Adult
+190,0.37596914529669956,-0.02370884641553543,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Positive,Adult
+191,-0.23482063177324375,-0.413816746918877,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
+192,-0.21698919171718029,0.05177836317161952,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Positive,Senior Adult
+193,-0.019948008311189147,0.3143175416158565,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Positive,Adult
+194,0.22040946171765496,0.3061680024957588,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Positive,Adult
+195,-0.09223940910615508,-0.08768285074149752,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Adult
+196,-0.1650907278461693,0.1883915094490563,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
+197,-0.18843938158865886,0.18060097728187557,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
+198,0.0580633202148958,-0.3732273147081031,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive,Adult
+199,0.6177581643551232,-0.03360078335567482,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive,Senior Adult
+200,0.30462843917126775,-0.21404085818058816,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative,Adult
+201,-0.8001426916929435,-0.472689110936719,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+202,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+203,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+204,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+205,0.5778511405517552,0.7346878851367193,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
+206,-0.17070175835988544,0.0004728407773056942,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative,Senior Adult
+207,-0.3103687764203944,0.4614584153867548,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+208,-0.35701771009806765,0.3299685967450765,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
+209,-0.5167174053980471,0.2668153638013413,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
+210,-0.5985091600089263,-0.00763373730812314,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+211,-0.47719264436521114,-0.08739990659148161,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Negative,Adult
+212,-0.6368923396651904,-0.15055313953521682,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Negative,Adult
+213,-0.22754815328580003,-0.2624954445098384,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Negative,Adult
+214,-0.6662634207962637,0.3068116869623581,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+215,-0.5916016085775059,-0.08712850066356304,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+216,-0.29036367015754067,-0.094270269062009,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
+217,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+218,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+219,-0.9318146429356764,-0.32378321727567644,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+220,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+221,-0.3777093203574246,0.6823021941871983,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+222,-0.5661039115605631,-0.36104187935790444,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
+223,0.16960376377028424,0.3432989264989067,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Negative,Adult
+224,0.054773013209462484,0.7482213248278429,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
+225,-0.7721149476356971,-0.26062998433194123,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+226,-0.6523136641181537,0.008981252836846781,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Negative,Adult
+227,-0.4719223585588175,-0.2801991116615397,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+228,-0.06785749746163999,0.200134505713087,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Negative,Adult
+229,-0.5424941654500279,0.495489480551089,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+230,-0.4668372087661935,-0.15653963096916565,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+231,-0.6035943098015504,-0.13129321800049715,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+232,0.27479768275410105,0.5096028178482332,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+233,-0.061373993349997435,0.5275389856257071,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+234,-0.21618722341864877,0.5423011830831195,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+235,-0.9318146429356764,-0.32378321727567644,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+236,0.20160793943555427,0.8216886820239674,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Senior Adult
+237,0.20958624327811382,0.7334591273704306,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+238,0.041908244135574924,0.7585354490802322,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Senior Adult
+239,-0.6035943098015504,-0.13129321800049715,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+240,-0.33197817492232506,0.2653938348408519,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Negative,Adult
+241,0.25154419852037607,0.6878761826046889,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
+242,0.03500069270415446,0.8380302124356721,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Senior Adult
+243,-0.6035943098015504,-0.13129321800049715,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+244,-0.23595954392395685,0.6321100706909486,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+245,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+246,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+247,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+248,-0.7772437617796397,0.10338398318127896,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
+249,0.29665470764166185,-0.6218300274540551,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+250,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+251,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+252,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+253,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+254,-0.07512093647326423,-0.35066351397514184,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
+255,-0.15848018560132587,-0.22307328487712,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+256,0.23035295419183321,-0.32594869096116075,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+257,0.3342142104303069,-0.06312910167057323,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+258,0.7793283346305312,-0.15490916854719602,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+259,0.467145338840703,0.581440017586826,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Positive,Senior Adult
+260,-0.5786321871413691,-0.3436625284730467,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+261,0.20313521858589395,-0.4796380556978398,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive,Adult
+262,0.03282480935325138,-0.3097772518083231,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
+263,-0.05908156564296008,0.27540724480280643,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
+264,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+265,-0.45090600414912774,-0.3118365900469897,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
+266,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+267,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+268,-0.1516327048262971,-0.0688810075422957,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+269,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+270,0.5017407469157555,-0.34199534191657044,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+271,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+272,-0.6662634207962637,0.3068116869623581,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+273,-0.5916016085775059,-0.08712850066356304,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+274,-0.29036367015754067,-0.094270269062009,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
+275,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+276,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+277,-0.9318146429356764,-0.32378321727567644,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+278,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+279,-0.3777093203574246,0.6823021941871983,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+280,-0.5661039115605631,-0.36104187935790444,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
+281,-0.6662634207962637,0.3068116869623581,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+282,-0.5916016085775059,-0.08712850066356304,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+283,-0.29036367015754067,-0.094270269062009,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
+284,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+285,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+286,-0.9318146429356764,-0.32378321727567644,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+287,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+288,-0.3777093203574246,0.6823021941871983,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+289,-0.5661039115605631,-0.36104187935790444,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
+290,-0.23595954392395685,0.6321100706909486,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+291,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+292,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+293,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+294,-0.7772437617796397,0.10338398318127896,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
+295,0.29665470764166185,-0.6218300274540551,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+296,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+297,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+298,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+299,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+300,-0.07512093647326423,-0.35066351397514184,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
+301,-0.15848018560132587,-0.22307328487712,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+302,-0.18843938158865886,0.18060097728187557,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
+303,0.0580633202148958,-0.3732273147081031,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive,Adult
+304,0.6177581643551232,-0.03360078335567482,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive,Senior Adult
+305,0.30462843917126775,-0.21404085818058816,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative,Adult
+306,-0.8001426916929435,-0.472689110936719,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+307,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+308,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+309,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+310,0.5778511405517552,0.7346878851367193,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
+311,-0.17070175835988544,0.0004728407773056942,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative,Senior Adult
+312,-0.3103687764203944,0.4614584153867548,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+313,-0.35701771009806765,0.3299685967450765,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
+314,-0.5167174053980471,0.2668153638013413,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
+315,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+316,-0.2031237697834652,0.5777311091219568,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Negative,Adult
+317,-0.47719264436521114,-0.08739990659148161,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Negative,Adult
+318,-0.5906218456303173,-0.44469583275262253,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Negative,Young Adult
+319,-0.6316220538587968,-0.343352344605275,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+320,-0.27132239550843473,0.721512500141744,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
+321,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+322,0.3280096048718935,0.8655819934329829,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
+323,0.003804166565170186,0.4025021922298922,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+324,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+325,-0.5014785757036605,0.49362440059846735,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+326,-0.07647138193745934,0.6751604257887523,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+327,-0.39678864679299725,-0.27281375935308766,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
+328,-0.1613287579454039,-0.023717112398039433,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative,Adult
+329,0.22180781603667338,0.509913001716005,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+330,-0.537409015657404,0.6191489612434631,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+331,-0.010953239639225565,0.6574708910361229,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative,Adult
+332,-0.22330630816355113,0.6016930685926278,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+333,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+334,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+335,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+336,-0.7772437617796397,0.10338398318127896,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
+337,0.29665470764166185,-0.6218300274540551,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+338,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+339,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+340,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+341,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+342,-0.07512093647326423,-0.35066351397514184,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
+343,-0.15848018560132587,-0.22307328487712,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+344,-0.18843938158865886,0.18060097728187557,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
+345,0.0580633202148958,-0.3732273147081031,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Positive,Adult
+346,0.6177581643551232,-0.03360078335567482,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Positive,Senior Adult
+347,0.30462843917126775,-0.21404085818058816,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Negative,Adult
+348,-0.8001426916929435,-0.472689110936719,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+349,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+350,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+351,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+352,0.5778511405517552,0.7346878851367193,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Negative,Senior Adult
+353,-0.17070175835988544,0.0004728407773056942,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Negative,Senior Adult
+354,-0.3103687764203944,0.4614584153867548,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+355,-0.35701771009806765,0.3299685967450765,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
+356,-0.5167174053980471,0.2668153638013413,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,Negative,Adult
+357,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+358,0.20313521858589395,-0.4796380556978398,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Positive,Adult
+359,0.03282480935325138,-0.3097772518083231,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Positive,Adult
+360,-0.05908156564296008,0.27540724480280643,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
+361,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+362,-0.45090600414912774,-0.3118365900469897,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
+363,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+364,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+365,-0.1516327048262971,-0.0688810075422957,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+366,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+367,0.5017407469157555,-0.34199534191657044,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+368,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+369,-0.6662634207962637,0.3068116869623581,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+370,-0.5916016085775059,-0.08712850066356304,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+371,-0.29036367015754067,-0.094270269062009,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
+372,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+373,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+374,-0.9318146429356764,-0.32378321727567644,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+375,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+376,-0.3777093203574246,0.6823021941871983,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+377,-0.5661039115605631,-0.36104187935790444,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
+378,-0.24747386753364942,-0.38339974482055617,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+379,0.4540654042781944,0.15854196337435442,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Positive,Senior Adult
+380,-0.1516565015336322,-0.40234529189664403,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Positive,Adult
+381,-0.14894385455697368,-0.37245020962541947,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+382,0.4552262465934446,-0.12453856055880863,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Positive,Senior Adult
+383,0.5591185290721232,0.4001680241948457,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Positive,Senior Adult
+384,-0.06589023445941555,-0.07400209509973248,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
+385,-0.25055205241957623,0.07521398242908178,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Positive,Adult
+386,0.003804166565170186,0.4025021922298922,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+387,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+388,-0.5014785757036605,0.49362440059846735,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+389,-0.07647138193745934,0.6751604257887523,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+390,-0.39678864679299725,-0.27281375935308766,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
+391,-0.1613287579454039,-0.023717112398039433,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative,Adult
+392,0.22180781603667338,0.509913001716005,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+393,-0.537409015657404,0.6191489612434631,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+394,-0.010953239639225565,0.6574708910361229,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative,Adult
+395,-0.22330630816355113,0.6016930685926278,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+396,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+397,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+398,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+399,0.3280096048718935,0.8655819934329829,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
+400,0.003804166565170186,0.4025021922298922,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+401,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+402,-0.5014785757036605,0.49362440059846735,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+403,-0.07647138193745934,0.6751604257887523,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+404,-0.39678864679299725,-0.27281375935308766,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
+405,-0.1613287579454039,-0.023717112398039433,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Negative,Adult
+406,0.22180781603667338,0.509913001716005,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+407,-0.537409015657404,0.6191489612434631,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+408,-0.010953239639225565,0.6574708910361229,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Negative,Adult
+409,-0.22330630816355113,0.6016930685926278,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+410,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+411,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+412,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+413,-0.7772437617796397,0.10338398318127896,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
+414,0.29665470764166185,-0.6218300274540551,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+415,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+416,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+417,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+418,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+419,-0.07512093647326423,-0.35066351397514184,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Positive,Adult
+420,-0.15848018560132587,-0.22307328487712,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Positive,Adult
+421,-0.18843938158865886,0.18060097728187557,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Positive,Senior Adult
+422,0.6417947747208712,0.3906775923052186,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Positive,Senior Adult
+423,0.5243788616998004,-0.23523898560904366,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Senior Adult
+424,-0.09785199742440476,-0.4189602820416139,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Positive,Adult
+425,0.6507805271361397,-0.19134567420002807,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Positive,Senior Adult
+426,0.5958781771710858,0.37115183133593077,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Positive,Adult
+427,-0.21878126094293954,0.2122540118590712,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Adult
+428,0.23337888315379174,0.04963397468627519,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Positive,Adult
+429,0.7338661359453891,-0.3760264070809046,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Positive,Adult
+430,-0.4425197922280969,0.14409459999325858,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Positive,Adult
+431,-0.1637504714077196,-0.030274079807061885,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Positive,Adult
+432,0.7793283346305312,-0.15490916854719602,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+433,-0.5874967940268552,0.07782738634483868,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Positive,Adult
+434,0.510195720833057,-0.27875827757860355,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Positive,Adult
+435,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+436,0.5311435600114414,-0.16261997691804975,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Positive,Adult
+437,-0.4937748111334247,0.355215009713745,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Positive,Adult
+438,0.7391227533354708,-0.09467432672647573,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+439,0.035859404510111714,-0.14723581019406262,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Positive,Adult
+440,0.04094455430273575,-0.023576329501688587,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Positive,Adult
+441,-0.1473745811959411,0.091528466317127,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Positive,Senior Adult
+442,0.5330336479886976,0.0005671051680370687,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Positive,Senior Adult
+443,-0.28666286658131956,-0.26329756908863894,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,Positive,Adult
+444,0.0027775369004461314,-0.22106742202814758,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Positive,Adult
+445,0.39220651060392786,0.16726604921933372,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Positive,Adult
+446,0.20232521013458676,-0.5380078175659385,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Positive,Adult
+447,0.5897346554425097,0.15109461006649602,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+448,0.6198401726440339,-0.1979595236449997,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Positive,Adult
+449,0.48895183255289576,-0.3272454317242221,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Positive,Adult
+450,0.09690095033125112,0.050385655740832515,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+451,0.9563185515703787,-0.009728916652905678,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Positive,Senior Adult
+452,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+453,-0.45090600414912774,-0.3118365900469897,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Positive,Young Adult
+454,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+455,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Positive,Adult
+456,-0.1516327048262971,-0.0688810075422957,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Positive,Adult
+457,0.9057300000668704,-0.11101585713818045,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Positive,Adult
+458,0.5017407469157555,-0.34199534191657044,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Positive,Adult
+459,0.3977438120748278,-0.6204820231131305,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Positive,Adult
+460,-0.6662634207962637,0.3068116869623581,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+461,-0.5916016085775059,-0.08712850066356304,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+462,-0.29036367015754067,-0.094270269062009,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
+463,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+464,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+465,-0.9318146429356764,-0.32378321727567644,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+466,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+467,-0.3777093203574246,0.6823021941871983,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+468,-0.5661039115605631,-0.36104187935790444,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
+469,-0.6662634207962637,0.3068116869623581,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+470,-0.5916016085775059,-0.08712850066356304,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Negative,Adult
+471,-0.29036367015754067,-0.094270269062009,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Adult
+472,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+473,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+474,-0.9318146429356764,-0.3237832172756765,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Young Adult
+475,-0.7632940051015297,-0.19444645094423238,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+476,-0.3777093203574246,0.6823021941871983,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+477,-0.5661039115605631,-0.36104187935790444,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Adult
+478,-0.23595954392395685,0.6321100706909486,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+479,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+480,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+481,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+482,-0.7772437617796397,0.10338398318127896,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
+483,0.29665470764166185,-0.6218300274540551,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Adult
+484,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+485,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+486,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+487,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+488,-0.22330630816355113,0.6016930685926278,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+489,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+490,-0.3827944701500486,0.5586427134948242,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+491,0.26472141536789984,0.5542478103118061,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Adult
+492,0.3280096048718935,0.8655819934329829,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
+493,0.003804166565170186,0.4025021922298922,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Negative,Adult
+494,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+495,-0.5014785757036605,0.49362440059846735,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Negative,Adult
+496,-0.07647138193745934,0.6751604257887523,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+497,-0.39678864679299725,-0.27281375935308766,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Negative,Adult
+498,0.6122935318033205,0.08339915456464186,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Positive,Senior Adult
+499,0.3280096048718935,0.8655819934329829,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Negative,Senior Adult
+500,-0.10730918630132569,0.375123798505991,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Positive,Senior Adult
+501,-0.17889159551592682,0.06859951758491081,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Negative,Senior Adult
+502,0.4008171880911622,0.5407597904713567,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+503,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+504,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+505,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+506,-0.26623724571581076,0.845171980834118,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
+507,-0.45463183691894926,-0.19817209271098457,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Negative,Senior Adult
+508,-0.23595954392395685,0.6321100706909486,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Negative,Adult
+509,-0.7632940051015297,-0.19444645094423235,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult
+510,-0.27132239550843473,0.721512500141744,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Negative,Senior Adult
+511,0.3761934900095136,0.7171175969587259,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Negative,Senior Adult
+512,-0.7772437617796397,0.10338398318127896,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Negative,Adult
+513,0.4081267822832756,-0.4589602408071354,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Positive,Senior Adult
+514,0.23825565008833038,-0.6635323782109341,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Positive,Adult
+515,0.31330555111796277,-0.3345801137848593,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Positive,Adult
+516,0.5994069118542814,-0.22753356943210856,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Positive,Adult
+517,0.6100968805991533,-0.5647042006696354,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Positive,Adult
+518,-0.22330630816355101,0.6016930685926278,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Negative,Adult
+519,-0.7632940051015297,-0.19444645094423238,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Negative,Adult

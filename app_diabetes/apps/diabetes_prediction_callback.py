@@ -1,6 +1,10 @@
 import dash
 from dash.dependencies import Input, Output
 import time
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+from datasets.data import get_accuracy,get_model
+
 
 def diabetes_test_callback(app):
 
@@ -45,14 +49,34 @@ def diabetes_test_callback(app):
                          partial_paresis, muscle_stiffness, alopecia, obese ):
         if clicks:
             start_time = time.time()
-            attributes={'gender':gender, 'polyuria':urination,'polydipsia':thirsty, 'sudden weight loss':weight_loss,
+            attributes=[{'polyuria':urination,'polydipsia':thirsty, 'sudden weight loss':weight_loss,
                         'weakness':weakness,'polyphagia':eating,'genital thrush':genital_thrush,
                         'visual blurring':visual_blurring,'itching':itching,'irritability':irritability,
                         'delayed healing':delayed_healing, 'partial paresis':partial_paresis,
-                        'muscle stiffness':muscle_stiffness,'alopecia':alopecia,'obese':obese,'c_age':age}
+                        'muscle stiffness':muscle_stiffness,'alopecia':alopecia,'obese':obese,'c_age':age}]
+
+            # trasforn dictionary into table
+            user_input =pd.DataFrame.from_dict(attributes)
+            print(user_input)
+
+            #make prediction
+            model = get_model()
+            prediction = model.predict(user_input)
+            prob=model.predict_proba(user_input)
+            print('prob =', prob)
+            test_result =''
+            if prediction ==[0]:
+                test_result = 'You problabilly do not have diabetes.'
+            elif prediction ==[1]:
+                test_result = 'You may have diabetes.'
+            accuracy = get_accuracy()
 
             print("--- %s seconds ---" % (time.time() - start_time))
-            return  str(attributes)
+
+            print('prediction', prediction)
+            print(test_result)
+            return str(attributes)
+
     # @app.callback(
     #     Output(component_id='tabs', component_property='active_tab'),
     #     [Input(component_id='next2', component_property='n_clicks')])
