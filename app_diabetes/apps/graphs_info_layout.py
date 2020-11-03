@@ -1,95 +1,95 @@
-from datasets.data import create_diabetes_dataframe, create_rows_coordinates
-from dash.dependencies import Input,Output
-import plotly.express as px
-import pandas as pd
+import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
 from .graphs_info_callback import graphs_callback
 from app import app
 
+page_layout = {"margin-left": "5rem",
+               "margin-right": "5rem",
+               "padding": "2rem 1rem",
+               "text-align": "justify",
+               "text-justify":"inter-word",
+               "font-family": "'Times New Roman', Times, serif"}
+
 layout= html.Div([
-    html.Div([
-        html.H1("my first try", style={'text-aling': 'center'}),
-
-        dcc.Dropdown(id="scatterplot_input",
-                     options=[
-{'label': "Alopecia (baldeness)", 'value': 'alopecia'},
-                         {'label': "Delayed Healing", 'value': 'delayed healing'},
-                         {'label': "Irritability", 'value': 'irritability'},
-                         {'label': "Muscle Stiffness", 'value': 'muscle stiffness'},
-                         {'label': "Obesity", 'value': 'obesity'},
-                         {'label': "Polyphagia (Excessive Hunger)", 'value': 'polyphagia'},
-                         {'label': "Polyuria", 'value': 'polyuria'},
-                         {'label': "Sudden Weight Loss", 'value': 'sudden weight loss'},
-                         {'label': "Visual Blurring", 'value': 'visual blurring'}],
-                     multi=False,
-                     value='obesity',
-                     style={'width': '40%'}
-                     ),
-        html.Div(id='output_container', children=[]),
-        html.Br(),
-        dcc.Graph(id='scatterplot', figure={})
-    ]),
-
-    html.Div([
-
-        html.H3('bar plot graph test'),
-        dcc.Dropdown(id="bar_chart_input",
-                     options=[
-                         {'label': "Alopecia (baldeness)", 'value': 'alopecia'},
-                         {'label': "Delayed Healing", 'value': 'delayed healing'},
-                         {'label': "Irritability", 'value': 'irritability'},
-                         {'label': "Muscle Stiffness", 'value': 'muscle stiffness'},
-                         {'label': "Obesity", 'value': 'obesity'},
-                         {'label': "Polyphagia (Excessive Hunger)", 'value': 'polyphagia'},
-                         {'label': "Polyuria", 'value': 'polyuria'},
-                         {'label': "Sudden Weight Loss", 'value': 'sudden weight loss'},
-                         {'label': "Visual Blurring", 'value': 'visual blurring'}],
-                     multi=False,
-                     value='obesity',
-                     style={'width': '40%'}
-                     ),
-        html.Div(id='output_container2', children=[]),
-        html.Br(),
-        dcc.Graph(id='Barplot', figure={})
-    ]),
-    html.Div([
-        html.H3('Age plot'),
-        dcc.Dropdown(id="boxplot_input",
-                     options=[
-                         {'label': "Alopecia (baldeness)", 'value': 'alopecia'},
-                         {'label': "Delayed Healing", 'value': 'delayed healing'},
-                         {'label': "Irritability", 'value': 'irritability'},
-                         {'label': "Muscle Stiffness", 'value': 'muscle stiffness'},
-                         {'label': "Obesity", 'value': 'obesity'},
-                         {'label': "Polyphagia (Excessive Hunger)", 'value': 'polyphagia'},
-                         {'label': "Polyuria", 'value': 'polyuria'},
-                         {'label': "Sudden Weight Loss", 'value': 'sudden weight loss'},
-                         {'label': "Visual Blurring", 'value': 'visual blurring'}],
-                     multi=False,
-                     value='obesity',
-                     style={'width': '40%'}
-                     ),
-        html.Div(id='output_container3', children=[]),
-        html.Br(),
-        dcc.Graph(id='boxplot', figure={})
-    ])
-])
+    html.P("In this section, you will find three interactive graphs."
+            " In the drop-down button, you can select which attribute do you want to explore."
+            " You are also able to select which data you want to display in the graph by clicking on "
+            "its label icons (located on the left of the graph). "),
+    html.Br(),
+    dbc.Card([
+        dbc.CardBody([
+            dcc.Dropdown(id="scatterplot_input",
+                         options=[
+                             {'label': "Alopecia (baldeness)", 'value': 'alopecia'},
+                             {'label': "Delayed Healing", 'value': 'delayed healing'},
+                             {'label': "Irritability", 'value': 'irritability'},
+                             {'label': "Muscle Stiffness", 'value': 'muscle stiffness'},
+                             {'label': "Obesity", 'value': 'obesity'},
+                             {'label': "Polyphagia (Excessive Hunger)", 'value': 'polyphagia'},
+                             {'label': "Polyuria", 'value': 'polyuria'},
+                             {'label': "Sudden Weight Loss", 'value': 'sudden weight loss'},
+                             {'label': "Visual Blurring", 'value': 'visual blurring'}],
+                         multi=False,
+                         value='obesity',
+                         style={'width': '40%'}
+                         ),
+            html.Div(id='output_container', children=[]),
+            html.Br(),
+            dcc.Graph(id='scatterplot', figure={})
+        ]),
+    ],color="warning", ),
+    html.Br(),
+    dbc.Card([
+      dbc.CardBody([
+            dcc.Dropdown(id="bar_chart_input",
+                         options=[
+                             {'label': "Alopecia (baldeness)", 'value': 'alopecia'},
+                             {'label': "Delayed Healing", 'value': 'delayed healing'},
+                             {'label': "Irritability", 'value': 'irritability'},
+                             {'label': "Muscle Stiffness", 'value': 'muscle stiffness'},
+                             {'label': "Obesity", 'value': 'obesity'},
+                             {'label': "Polyphagia (Excessive Hunger)", 'value': 'polyphagia'},
+                             {'label': "Polyuria", 'value': 'polyuria'},
+                             {'label': "Sudden Weight Loss", 'value': 'sudden weight loss'},
+                             {'label': "Visual Blurring", 'value': 'visual blurring'}],
+                         multi=False,
+                         value='obesity',
+                         style={'width': '40%'}
+                         ),
+            html.Div(id='output_container2', children=[]),
+            html.Br(),
+            dcc.Graph(id='Barplot', figure={})
+           ]),
+    ],color="warning"),
+    html.Br(),
+    dbc.Card([
+            dbc.CardBody([
+            dcc.Dropdown(id="boxplot_input",
+                         options=[
+                             {'label': "Alopecia (baldeness)", 'value': 'alopecia'},
+                             {'label': "Delayed Healing", 'value': 'delayed healing'},
+                             {'label': "Irritability", 'value': 'irritability'},
+                             {'label': "Muscle Stiffness", 'value': 'muscle stiffness'},
+                             {'label': "Obesity", 'value': 'obesity'},
+                             {'label': "Polyphagia (Excessive Hunger)", 'value': 'polyphagia'},
+                             {'label': "Polyuria", 'value': 'polyuria'},
+                             {'label': "Sudden Weight Loss", 'value': 'sudden weight loss'},
+                             {'label': "Visual Blurring", 'value': 'visual blurring'}],
+                         multi=False,
+                         value='obesity',
+                         style={'width': '40%'}
+                         ),
+            html.Div(id='output_container3', children=[]),
+            html.Br(),
+            dcc.Graph(id='boxplot', figure={})
+        ]),
+    ], color="warning")
+],style= page_layout)
 
 graphs_callback(app)
 
-def introduction_text():
-    text = '<p> Diabetes is a chronic, metabolic disease in which the body does not properly' \
-           ' process food for use of energy. This condition elevates blood sugar levels which,' \
-           ' over time leads to damage to the heart, eyes, kidneys, nerves,' \
-           ' and other serious complications such as amputation of toe, foot, or legs.</p>' \
-           '' \
-           '<p>They are two types of diabetes. Type 2 diabetes is the most common, which occurs when' \
-           ' the organism becomes resistant to insulin or does not produce enough insulin.' \
-           ' Type 1 diabetes is a chronic condition in which the pancreas makes none or a small amount of ' \
-           'insulin by itself. </p> ' \
-           '' \
-           ''
+
 
 # @app.callback(
 #         [Output(component_id='output_container', component_property='children'),

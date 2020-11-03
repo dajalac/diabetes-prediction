@@ -2,7 +2,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import dash_auth
 from dash.dependencies import Input,Output
-
+import dash_bootstrap_components as dbc
 
 # connect to the main app file
 from app import app
@@ -16,13 +16,15 @@ VALID_USERNAME_PASSWORD_PAIRS ={'hello':'world'}
 auth = dash_auth.BasicAuth(app,VALID_USERNAME_PASSWORD_PAIRS)
 
 app.layout = html.Div([
-    html.Div([
-        dcc.Link(' Home | ', href='/apps/home_layout'),
-        dcc.Link('Statistics | ', href='/apps/graphs_info_layout'),
-        dcc.Link('Diabetes test prediction', href='/apps/diabetes_prediction_layout')
-    ],className='row'),
+   dbc.Nav(
+            [
+                dbc.NavLink("Home", href="/apps/home_layout"),
+                dbc.NavLink("Statistics", href="/apps/graphs_info_layout"),
+                dbc.NavLink( "Prediction test", href="/apps/diabetes_prediction_layout"),
+            ]
+        ),
     dcc.Location(id = 'url',refresh=False,pathname ='/apps/home_page_layout.py'),
-    html.Div(id='page-content',children=[]) # every item in the pages will go inside []
+    html.Div(id='page-content',children=[]), # every item in the pages will go inside []
 ])
 
 @app.callback(Output(component_id='page-content',component_property='children'),
