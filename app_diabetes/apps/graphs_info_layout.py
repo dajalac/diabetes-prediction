@@ -32,8 +32,8 @@ layout= html.Div([
                              {'label': "Visual Blurring", 'value': 'visual blurring'}],
                          multi=False,
                          value='obesity',
-                         style={'width': '40%'}
-                         ),
+                         style={'width': '40%'},
+                         clearable=False),
             html.Div(id='output_container', children=[]),
             html.Br(),
             dcc.Graph(id='scatterplot', figure={})
@@ -55,8 +55,8 @@ layout= html.Div([
                              {'label': "Visual Blurring", 'value': 'visual blurring'}],
                          multi=False,
                          value='obesity',
-                         style={'width': '40%'}
-                         ),
+                         style={'width': '40%'},
+                         clearable=False),
             html.Div(id='output_container2', children=[]),
             html.Br(),
             dcc.Graph(id='Barplot', figure={})
@@ -78,7 +78,8 @@ layout= html.Div([
                              {'label': "Visual Blurring", 'value': 'visual blurring'}],
                          multi=False,
                          value='obesity',
-                         style={'width': '40%'}
+                         style={'width': '40%'},
+                         clearable=False
                          ),
             html.Div(id='output_container3', children=[]),
             html.Br(),

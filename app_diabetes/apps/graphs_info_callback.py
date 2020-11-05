@@ -34,6 +34,7 @@ def graphs_callback(app):
          Output(component_id='Barplot', component_property='figure')],
         [Input(component_id='bar_chart_input', component_property='value')])
     def update_graph2(option_slct):
+
         container = "You selected: {}".format(option_slct)
         dff = create_rows_coordinates().copy()
         fig = px.bar(pd.crosstab(dff[option_slct], dff['Diabetes']), barmode="group",
