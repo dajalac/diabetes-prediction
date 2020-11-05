@@ -70,17 +70,20 @@ def diabetes_test_callback(app):
                 prob = model.predict_proba(user_input)
                 test_result = " "
                 if prediction == [1]:
-                    test_result = "With a {}% probability you may have diabetes." \
-                                  " Please schedule an  appointment with your physician" \
-                                  " for a better evaluation and instruction".format(round(prob[0][1] * 100, 2))
+                    test_result = "According to our model you may have diabetes" \
+                                  " ({}% probability)." \
+                                  " Please schedule an  appointment with your doctor" \
+                                  " for a better evaluation and instruction.".format(round(prob[0][1] * 100, 2))
                 elif prediction == [0]:
                     test_result = "You probably don't have diabetes. " \
                                   "Keep up a good diet and regular physical activity."
 
                 seconds = "Model calculated in -- %s seconds --" % round((time.time() - start_time), 2)
 
-                return [html.H6(test_result),html.Br(), html.P(accuracy), html.Br(), html.P(seconds)]
+                return [html.H6(test_result),html.Br(),
+                        html.P(accuracy, style={'color':'grey','font-size':'12px','margin':'0'}),
+                        html.P(seconds,style={'color':'grey','font-size':'12px'})]
             except:
-                error = "Please answer all the questions before hit submit"
+                error = html.H6("Please answer all the questions before hit submit", style= {'color':'red'})
                 return error
 

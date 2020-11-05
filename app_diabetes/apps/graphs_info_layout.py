@@ -15,7 +15,7 @@ layout= html.Div([
     html.P("In this section, you will find three interactive graphs."
             " In the drop-down button, you can select which attribute do you want to explore."
             " You are also able to select which data you want to display in the graph by clicking on "
-            "its label icons (located on the left of the graph). "),
+            "its legend icons (located on the left of the graph). "),
     html.Br(),
     dbc.Card([
         dbc.CardBody([

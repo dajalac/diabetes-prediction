@@ -52,7 +52,7 @@ layout = html.Div([
 
         html.P(['Source:  World Health Organization (WHO) and Center of Disease Control and prevention (CDC)']),
       ]),
-    ])
+    ],color="warning",outline=True)
 ],style= page_layout)
 
 layout2 = html.Div(id='redirection',children=[])

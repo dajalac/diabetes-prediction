@@ -13,8 +13,7 @@ def graphs_callback(app):
     def update_graph1(option_slct):
         container = "You selected: {}".format(option_slct)
         dff = create_rows_coordinates().copy()
-        # dff = dff.loc[dff['c_age'] == option_slct]
-        # dff=dff[option_slct]
+
         fig = px.scatter(dff, x='0', y='1', color='Diabetes', symbol=option_slct,
                          title='Multiple Correspondence Analysis (MCA)',
                          labels={'0': 'Component 0 (22.2% inertia)',
@@ -38,6 +37,7 @@ def graphs_callback(app):
         container = "You selected: {}".format(option_slct)
         dff = create_rows_coordinates().copy()
         fig = px.bar(pd.crosstab(dff[option_slct], dff['Diabetes']), barmode="group",
+                     title='Bar Plot - Number of Individuals per Attribute',
                      labels={'value': 'Number of individuals'})
 
         return container, fig
@@ -54,6 +54,6 @@ def graphs_callback(app):
         # #df_negative = df.loc[df[option_slct]=='No']
         #
         # df=df.loc[df['age']== df_positive]
-        fig = px.box(df, x=option_slct, y='age')
+        fig = px.box(df, x=option_slct, y='age', title='Box Plot - Age Average per Attribute',)
 
         return container, fig

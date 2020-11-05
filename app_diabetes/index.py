@@ -15,13 +15,14 @@ from apps import graphs_info_layout,diabetes_prediction_layout,home_page_layout
 VALID_USERNAME_PASSWORD_PAIRS ={'hello':'world'}
 auth = dash_auth.BasicAuth(app,VALID_USERNAME_PASSWORD_PAIRS)
 
+link_style = {'font-weight': 'bold', 'color': 'white'}
 app.layout = html.Div([
    dbc.Nav(
             [
-                dbc.NavLink("Home", href="/apps/home_layout"),
-                dbc.NavLink("Statistics", href="/apps/graphs_info_layout"),
-                dbc.NavLink( "Prediction test", href="/apps/diabetes_prediction_layout"),
-            ]
+                dbc.NavLink("Home", href="/apps/home_layout", style=link_style),
+                dbc.NavLink("Statistics", href="/apps/graphs_info_layout",style=link_style),
+                dbc.NavLink( "Prediction test", href="/apps/diabetes_prediction_layout",style=link_style),
+            ], style={"background": "#20B2AA", "height":"50px"}
         ),
     dcc.Location(id = 'url',refresh=False,pathname ='/apps/home_page_layout.py'),
     html.Div(id='page-content',children=[]), # every item in the pages will go inside []
