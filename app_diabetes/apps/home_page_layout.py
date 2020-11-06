@@ -4,8 +4,7 @@ import dash_bootstrap_components as dbc
 from .home_callback import home_callback
 from app import app
 
-page_layout = {"margin-left": "5rem",
-               "margin-right": "5rem",
+page_layout = {
                "padding": "1rem 1rem",
                "text-align": "justify",
                "text-justify":"inter-word",
@@ -18,7 +17,6 @@ layout = html.Div([
     dbc.Card([
       html.Br(),
       dbc.CardImg(src=app.get_asset_url('diabetes.jpg'),top=True, bottom= False,style=fig_css),
-        #html.Img(src=app.get_asset_url('diabetes.jpg'),style=fig_css),
         html.Br(),
       dbc.CardBody([
         html.H4('What is diabetes?',style={'color':'#708090'}),

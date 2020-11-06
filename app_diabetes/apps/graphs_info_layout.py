@@ -4,8 +4,7 @@ import dash_html_components as html
 from .graphs_info_callback import graphs_callback
 from app import app
 
-page_layout = {"margin-left": "5rem",
-               "margin-right": "5rem",
+page_layout = {
                "padding": "2rem 1rem",
                "text-align": "justify",
                "text-justify":"inter-word",
