@@ -31,9 +31,9 @@ layout = html.Div([
                 'insulin by itself.  '
                 ]),
         html.P(['According to World Health Organization (WHO) about 422 million people worldwide have diabetes'
-                ' and 1.6 million deaths are directly attributed to disease each year.Unfortunately, diabetes'
-                ' have a long asymptomatic phase, half of all people suffering from diabetes are undiagnosed because'
-                ' of its long-term asymptomatic phase. The early diagnosis is important for a better treatment outcome. ']),
+                ' and 1.6 million deaths are directly attributed to disease each year.Unfortunately,  half of all '
+                'people suffering from diabetes are undiagnosed because of its long-term asymptomatic phase. '
+                'The early diagnosis is important for a better treatment outcome. ']),
         html.H4('About our model',style={'color':'#708090'}),
         html.P(["The analysis and graphs were conducted based on questionnaires from the patients of Sylhet Diabetes "
                "Hospital in Sylhet, Bangladesh available ",

@@ -83,7 +83,8 @@ def diabetes_test_callback(app):
                 return [html.H6(test_result),html.Br(),
                         html.P(accuracy, style={'color':'grey','font-size':'12px','margin':'0'}),
                         html.P(seconds,style={'color':'grey','font-size':'12px'})]
-            except:
+            except Exception as e:
                 error = html.H6("Please answer all the questions before hit submit", style= {'color':'red'})
+                print(e)
                 return error
 
